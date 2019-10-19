@@ -1,0 +1,13 @@
+name: phase_type_v6
+channels:
+  - r
+  - conda-forge
+dependencies:
+  - r-tinytex 
+  - r-expm
+  - r-tidyverse
+  - r-partitions
+  - r-base
+  - rstudio
+  - r-gmp
+  - r-zeallot
